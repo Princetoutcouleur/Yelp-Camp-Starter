@@ -8,3 +8,18 @@ h1{
 p{
     font-size: 20px;
 }
+
+/* RESPONSIVE DESIGN */
+@media (max-width: 530px) {
+    h1{
+    font-size: 60px;
+}
+.partener{
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+}
+.partener img{
+    width: 20%;
+}
+}

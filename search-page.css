@@ -24,6 +24,11 @@
     align-items: center;
     justify-content: center;
 }
+.container .camp .carteCol{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .container .camp .card{
     margin-bottom: 30px;
 }

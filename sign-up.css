@@ -15,3 +15,10 @@ h1{
     align-items: center;
     justify-content: center;
 }
+
+/* Responsive design */
+@media (max-width: 530px) {
+    .input{
+    width: 300px;
+}
+}

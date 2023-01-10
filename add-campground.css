@@ -19,3 +19,11 @@
     width: 500px;
     background-color: rgba(241, 241, 241, 0.575);
 }
+
+/* RESPONSIVE DESIGN */
+@media (max-width: 530px) {
+.input{
+    width: 300px;
+    background-color: rgba(241, 241, 241, 0.575);
+}
+}
